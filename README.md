@@ -65,9 +65,9 @@ O servidor estará disponível em: **http://localhost:8000**
 
 ---
 
-## 🔐 Autenticação
+## Autenticação
 
-### Modo Produção
+### Em Produção
 
 Envie o token JWT do Auth0 no header:
 
@@ -75,7 +75,7 @@ Envie o token JWT do Auth0 no header:
 Authorization: Bearer <seu-token-jwt>
 ```
 
-### Modo de Teste
+### Em Teste
 
 Com `TESTING=1`, você pode usar tokens no formato:
 
@@ -99,7 +99,7 @@ Authorization: Bearer test:mod789|MODERATOR
 
 ---
 
-## 📖 Endpoints
+## Endpoints
 
 ### Posts
 
