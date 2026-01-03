@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Variáveis de Ambiente
 
-Crie um arquivo `.env` na raiz do projeto:
+Crie um arquivo `.env` na raiz do projeto
 
 ```env
 AUTH0_DOMAIN=seu-dominio.us.auth0.com
