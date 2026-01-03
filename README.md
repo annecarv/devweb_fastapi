@@ -55,7 +55,7 @@ O servidor estará disponível em: **http://localhost:8000**
 
 ---
 
-## 📚 Documentação da API
+## Documentação da API
 
 ### Documentação Interativa
 
